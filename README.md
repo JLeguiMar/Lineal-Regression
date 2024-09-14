@@ -9,5 +9,5 @@ This project demonstrates a simple linear regression model using Python and scik
 ## How to Run
 
 1. Clone this repository:
-   ```bash
-https://github.com/JLeguiMar/Lineal-Regression.git
+```bash
+   https://github.com/JLeguiMar/Lineal-Regression.git
